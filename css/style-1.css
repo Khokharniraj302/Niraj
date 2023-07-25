@@ -1215,6 +1215,6 @@ label{
     cursor: pointer;
   }
 ol, ul {
-    padding-left: 0rem;
+    padding-left: 0rem !important;
 }  
   /******Responsive media query*****/
