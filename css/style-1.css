@@ -1214,7 +1214,7 @@ label{
     line-height: 40px;
     cursor: pointer;
   }
-ul{
-	padding:0px;
+ol, ul {
+    padding-left: 0rem;
 }  
   /******Responsive media query*****/
